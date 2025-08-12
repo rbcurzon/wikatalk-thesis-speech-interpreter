@@ -12,7 +12,7 @@ import { X } from "react-native-feather";
 import getLanguageBackground from "@/utils/getLanguageBackground";
 import { LANGUAGE_INFO } from "@/constant/languages";
 import useThemeStore from "@/store/useThemeStore";
-import SectionRenderer from "@/components/speech/languageInfoModal/SectionRenderer";
+import SectionRenderer from "@/components/speech/LanguageInfoModal/SectionRenderer";
 import { createSections } from "@/utils/speech/languageInfoSection";
 import CloseButton from "../games/buttons/CloseButton";
 
